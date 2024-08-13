@@ -1,8 +1,9 @@
 # harold
 
 ## Goals
-Create a template for multi stack to talk to each other:
+Create a template for the following stacks:
 
+- Protobufs
 - Monorepo for FE
 - Backend on GO
 - Jest
